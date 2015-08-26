@@ -1,4 +1,5 @@
 # Testing
+<<<<<<< HEAD
 ## Commit Exercise
 
 
@@ -37,3 +38,6 @@ exercise 4
 	* 6
 	* 9999
 	* output : 2
+=======
+Commit Exercise
+>>>>>>> parent of 392aab9... add cpp files
